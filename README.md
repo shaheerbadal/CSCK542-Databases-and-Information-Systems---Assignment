@@ -25,7 +25,7 @@
 
 <h2>Key Features:</h2>
 <ul>
-  <li>Normalised database design (up to 2NF) to ensure efficient data management and integrity.</li>
+  <li>Normalised database design (up to 3NF) to ensure efficient data management and integrity.</li>
   <li>Referential integrity enforced through foreign keys.</li>
   <li>SQL scripts to create, populate, and manage the database.</li>
 </ul>
